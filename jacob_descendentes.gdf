@@ -1,0 +1,524 @@
+nodedef>name VARCHAR, label VARCHAR, idLattes VARCHAR, grandeArea VARCHAR, area VARCHAR, instituicao VARCHAR, orgao VARCHAR, pais VARCHAR, estado VARCHAR, cidade VARCHAR, cep VARCHAR, cvdata VARCHAR, foto VARCHAR,eh_semente BOOLEAN,eh_ascendente BOOLEAN,eh_descendente BOOLEAN, eh_Wiki BOOLEAN
+993392,Jairo Krás Mengue,2141939467104535,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,23/12/2016,,None,None,None,True
+1289421,Sergio Munoz,2779077658835923,Ciencias da Saude,Saúde Coletiva,Universidad de La Frontera,Chile,,Temuco,4780000,28/06/2013,,None,None,None,True
+1171158,Michel Cambrainha de Paula,2520862003222086,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Estado do Rio de Janeiro,ReitoriaBrasil,Rj,Rio de Janeiro,22460320,04/02/2017,,None,None,None,True
+1498669,Thomas Maurice Lewiner,3233622071831351,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Centro Técnico CientíficoBrasil,Rj,Rio de Janeiro,22453900,29/02/2016,,None,None,None,True
+528288,Bruno Rodrigues Santiago,1139306403682897,,,,,,,,21/10/2016,,None,None,None,True
+1517170,Wallace Correa de Oliveira Casaca,3272121223733592,Ciencias Exatas E da Terra,Ciência da Computação,Universidade Estadual Paulista Júlio de Mesquita Filho,Campus Experimental RosanaBrasil,Sp,Rosana,19274000,10/02/2017,,None,None,None,True
+3443841,Geovan Tavares dos Santos,7488616764401187,Ciencias Exatas E da Terra,Matemática,Laboratório Nacional de Computação Científica,Departamento de Ciência da ComputaçãoBrasil,Rj,Petrópolis,25651075,16/02/2017,,None,None,None,True
+473302,Amanda de Lima,1022520219828831,Ciencias Exatas E da Terra,Matemática,Universidade Federal de São Carlos,Brasil,Sp,São Carlos,13565905,04/01/2017,,None,None,None,True
+4158898,Jaqueline Siqueira Rocha,9101171844142193,,,,,,,,28/11/2016,,None,None,None,True
+1770727,Francisco Satuf Rezende,3817822008782923,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Minas Gerais,Instituto de Ciências ExatasBrasil,Mg,Belo Horizonte,32270901,29/01/2014,,None,None,None,True
+4250472,Alex Jesús Cuadros Vargas,9303862586856474,Ciencias Exatas E da Terra,Ciência da Computação,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,Sao Carlos,13560970,16/04/2007,,None,None,None,True
+791149,Fernanda Paula Barbosa Pola,1700440377013157,Ciencias Exatas E da Terra,Matemática,,,,,,10/02/2017,,None,None,None,True
+2387562,Kemelli Campanharo Estacio Hiroms,5153100844415438,Ciencias Exatas E da Terra,Matemática,University Of Texas At Austin,Institute For Computational Engineering And SciencesEstados Unidos,,Austin,78712,01/10/2013,,None,None,None,True
+97827,Anne Michelle Dysman Gomes,0207958631225457,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,04/11/2015,,None,None,None,True
+2737353,Lucas Spillere Barchinski,5910857730839300,,,Instituto Federal Catarinense,Campus SombrioBrasil,Sc,Sombrio,88960000,17/02/2017,,None,None,None,True
+2503166,Francisco Javier Valenzuela Henriquez,5400002594644500,,,,,,,,20/07/2009,,None,None,None,True
+583902,Mario Augusto de Souza Liziér,1257131701222446,Ciencias Exatas E da Terra,Ciência da Computação,Universidade Federal de São Carlos,Universidade Federal de São Carlos Campus SorocabaBrasil,Sp,Sorocaba,18052780,22/01/2015,,None,None,None,True
+4506838,Luiz Fernando Carvalho da Rocha,9882007106393059,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,18/06/2010,,None,None,None,True
+3050649,Marina Sequeiros Dias de Freitas,6603538640938115,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,IcexBrasil,Rj,Volta Redonda,27213415,05/01/2017,,None,None,None,True
+298383,Jyrko Correa Morris,0635946084776038,,,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,18/06/2014,,None,None,None,True
+3896323,Cleber Fernando Colle,8505079917621451,,,Universidade Estadual de Campinas,Brasil,Sp,Campinas,13083859,07/05/2017,,None,None,None,True
+873362,Welington da Silva Cordeiro,1882663965413693,Ciencias Exatas E da Terra,Matemática,,,,,,26/07/2016,,None,None,None,True
+1171829,Lorenzo Justiniano Diaz Casado,2522219947489545,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Centro Técnico CientíficoBrasil,Rj,Rio de Janeiro,22453900,25/01/2017,,None,None,None,True
+1612074,Luciana Silva Salgado,3472612472350503,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Departamento de MatematicaBrasil,Ba,Salvador,40170110,22/02/2017,,None,None,None,True
+2886921,Yuri Ki,6240266796951874,,,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,03/06/2016,,None,None,None,True
+3328915,Enrique Ramiro Pujals,7233477221322177,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,03/06/2016,,None,None,None,True
+1304399,Jose Humberto Bravo Vidarte,2812210677842839,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Itajubá,Instituto de CiênciasBrasil,Mg,Itajubá,37500903,10/08/2016,,None,None,None,True
+2275528,Carlos Alberto Siqueira Lima,4912062541274993,Ciencias Exatas E da Terra,Matemática,,,,,,27/10/2016,,None,None,None,True
+3930580,Davide Manuel Santos Azevedo,8580889062749655,Ciencias Exatas E da Terra,Matemática,,,,,,15/12/2015,,None,None,None,True
+237185,Judith Hayde Cruz Torres,0504941538205769,Ciencias Exatas E da Terra,Matemática,Universidad Nacional de San Agustín de Arequipa,Peru,,Arequipa,,09/07/2010,,None,None,None,True
+2492948,Vilton Jeovan Viana Pinheiro,5377575475537411,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Instituto de MatemáticaBrasil,Ba,Salvador,40170110,22/09/2016,,None,None,None,True
+4074733,Anderson Reis da Cruz,8911485243130142,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Oeste da Bahia,Centro Multidisciplinar de Bom Jesus da LapaBrasil,Ba,Bom Jesus da Lapa,47600000,14/06/2017,,None,None,None,True
+2546831,Augusto Armando de Castro Junior,5492901810695337,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Instituto de MatemáticaBrasil,Ba,Salvador,40170110,28/10/2016,,None,None,None,True
+2725058,Luiz Felipe Nobili França,5883479060529781,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Instituto de Ciências Exatas IcexBrasil,Rj,Volta Redonda,27213145,30/01/2017,,None,None,None,True
+3072889,Jessica Quintanilha Kubrusly,6653732909499835,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niteroi,24020140,30/08/2016,,None,None,None,True
+2511119,Daniel Smania Brandão,5416521015640279,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,São Carlos,13560970,15/11/2016,,None,None,None,True
+781867,Marcos de Oliveira Lage Ferreira,1679486689581930,Ciencias Exatas E da Terra,Ciência da Computação,Universidade Federal Fluminense,Centro TecnológicoBrasil,Rj,Niterói,24210330,02/02/2017,,None,None,None,True
+1859481,Eliandro Rodrigues Cirilo,4013438197275949,Ciencias Exatas E da Terra,Matemática,Universidade Estadual de Londrina,Centro de Ciências ExatasBrasil,Pr,Londrina,86051990,21/02/2017,,None,None,None,True
+15240,Gabriel Calsamiglia Mendlewicz,0032117305740360,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,17/02/2017,,None,None,None,True
+241838,Mohammad Soufi Neyestani,0514640801695517,Ciencias Exatas E da Terra,Matemática,Universidade do Estado do Rio de Janeiro,Centro de Tecnologia E CiênciasBrasil,Rj,Rio de Janeiro,20550900,27/09/2016,,None,None,None,True
+1501428,Adilson Lopes dos Santos,3239427829081323,Ciencias Exatas E da Terra,Matemática,,,,,,06/10/2015,,None,None,None,True
+1888204,Bernardo Melo de Carvalho,4074889152879220,Ciencias Exatas E da Terra,Matemática,,,,,,07/12/2016,,None,None,None,True
+3918447,Joana Mohr,8553573066407364,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,19/12/2016,,None,None,None,True
+838347,Mauricio José Poletti Merlo,1805186899660465,,,Associação Instituto Nacional de Matemática Pura E Aplicada,Associação Instituto Nacional de Matemática Pura E AplicadaBrasil,Rj,Rio de Janeiro,22460320,14/01/2016,,None,None,None,True
+2275911,Yuri Gomes Lima,4912847441632780,Ciencias Exatas E da Terra,Matemática,Université Paris Sud 11,França,,Orsay,91405,30/08/2016,,None,None,None,True
+2887093,Oliver James Butterley,6240661396375967,,,Uiversita Di Roma Tor Vergata,Uiversita Di Roma Tor VergataItália,,Roma,I00133,24/05/2011,,None,None,None,True
+3861895,Juliano Gonçalves Oler,8428517788561619,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Uberlândia,Centro de Ciências Exatas E Tecnologia; Faculdade de MatemáticaBrasil,Mg,Uberlândia,38408100,16/02/2016,,None,None,None,True
+321165,Jorge Erick López Velázquez,0686609903384046,Ciencias Exatas E da Terra,Matemática,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,28/01/2014,,None,None,None,True
+4441603,Alien Herrera Torres,9732110022786648,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Instituto de MatemáticaBrasil,Rj,Rio de Janeiro,24020140,09/02/2017,,None,None,None,True
+2256871,Antonio Augusto Gaspar Ruas,4869935092508093,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Minas Gerais,Instituto de Ciências ExatasBrasil,Mg,Belo Horizonte,30123970,19/05/2011,,None,None,None,True
+4540666,Alexandre Tavares Baraviera,9959735800204906,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,21/12/2016,,None,None,None,True
+4112619,Gonzalo Alberto Contreras Barandiaran,8998513484077991,Ciencias Exatas E da Terra,Matemática,Centro de Investigacion En Matematicas,México,,Guanajuato,36.000,30/05/2008,,None,None,None,True
+661193,Pedro Mendes,1421040516626871,Ciencias Exatas E da Terra,Matemática,Centro Universitário Una Campus Aimorés,Instituto PolitécnicoBrasil,Mg,Belo Horizonte,30494310,30/10/2012,,None,None,None,True
+1726447,João Paulo Gois,3720386139686468,Ciencias Exatas E da Terra,Ciência da Computação,Universidade Federal do Abc,Brasil,Sp,Santo André,09210580,19/01/2017,,None,None,None,True
+2065293,Bulmer Mejía García,4451251744220560,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Viçosa,Brasil,Mg,Vicosa,36571000,28/06/2016,,None,None,None,True
+2631816,Tatiana Fernandes Sodero,5676496286307230,,,,,,,,12/12/2014,,None,None,None,True
+3321506,Genesio Lima dos Reis,7217223354418315,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Goiás,Instituto de Matemática E EstatísticaBrasil,Go,Goiania,,28/02/2007,,None,None,None,True
+283391,Sebastian Alejandro Pérez Opazo,0603125977258436,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Brasil,Rj,Rio de Janeiro,22451900,22/12/2016,,None,None,None,True
+2644751,João Antonio Recio da Paixão,5705386762324718,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Instituto de MatemáticaBrasil,Rj,Rio de Janeiro,21941916,02/06/2016,,None,None,None,True
+2204140,Welington Celso de Melo,4753000425209135,Ciencias Exatas E da Terra,Matemática,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,10/08/2015,,None,None,None,True
+4388383,Artur Oscar Lopes,9609055739362569,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91540000,23/02/2017,,None,None,None,True
+2184482,Everton Artuso,4709930180718377,,,,,,,,02/01/2017,,None,None,None,True
+3251707,Mauro Benayon Menezes,7062878401121872,Ciencias Exatas E da Terra,Matemática,,,,,,29/02/2016,,None,None,None,True
+2199705,Allyson Ney Teodosio Cabral,4743125026081591,Ciencias Exatas E da Terra,Ciência da Computação,Pontifícia Universidade Católica do Rio de Janeiro,Departamento de MatemáticaBrasil,Rj,Rio de Janeiro,22453900,19/12/2016,,None,None,None,True
+675426,Paulo Cesar Rodrigues Pinto Varandas,1450367699820349,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Instituto de MatemáticaBrasil,Ba,Salvador,40170110,25/02/2017,,None,None,None,True
+4352238,Tiane Marcarini Pinto,9528109818221516,,,Universidade Federal do Espírito Santo,Brasil,Es,Vitória,29075910,14/02/2017,,None,None,None,True
+4514759,Maria de Andrade Costa E Silva,9900807806915415,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Sergipe,Centro de Ciências Exatas E TecnologiaBrasil,Se,São Cristóvão,49100000,27/01/2017,,None,None,None,True
+2333986,Paula Ceccon Ribeiro,5039607895537597,Ciencias Exatas E da Terra,Ciência da Computação,Galgos/puc Rio,Galgos/puc RioBrasil,Rj,Rio de Janeiro,22451900,27/12/2016,,None,None,None,True
+2884069,Marcelo Miranda Viana da Silva,6233887751567079,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,28/12/2016,,None,None,None,True
+1248005,Meysam Nassiri,2687120244266608,Ciencias Exatas E da Terra,Matemática,Institute For Research In Fundamental Sciences,School Of MathematicsIrã,,Tehran,,10/05/2010,,None,None,None,True
+3750255,Thales Miranda de Almeida Vieira,8181104476035846,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Alagoas,ReitoriaBrasil,Al,Maceió,57072970,23/02/2017,,None,None,None,True
+1039324,Raquel Ribeiro Barroso Portela,2240090680599956,Ciencias Exatas E da Terra,Matemática,,,,,,01/02/2017,,None,None,None,True
+2083438,Tiago Estrela de Oliveira,4490564140396456,Ciencias Exatas E da Terra,Matemática,Fundação Educacional Inaciana Padre Sabóia de Medeiros,Centro Universitário da FeiBrasil,Sp,São Bernardo do Campo,09850901,24/10/2016,,None,None,None,True
+1448561,João Eduardo Reis,3126722971551067,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica de Goiás,Centro Técnico CientíficoBrasil,Go,Goiânia,74605020,06/11/2015,,None,None,None,True
+3506736,Kátia Silene Ferreira Lima Rocha,7628455128004864,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Recôncavo da Bahia,Centro de Ciências Exatas E TecnológicasBrasil,Ba,Cruz das Almas,44380000,01/08/2016,,None,None,None,True
+302874,Oyran Silva Rayzaro,0645678879332842,Ciencias Exatas E da Terra,Matemática,Universidade Estadual de Mato Grosso do Sul,Conselho de Ensino; Pesquisa E ExtensãoBrasil,Ms,Nova Andradina,79750000,20/02/2017,,None,None,None,True
+144065,Fagner Bernardini Rodrigues,0306059083495822,,,,,,,,25/01/2017,,None,None,None,True
+4036916,Cristina Lizana Araneda,8823817617280720,Ciencias Exatas E da Terra,Matemática,Universidad de Los Andes Venezuela,MatemáticaVenezuela,,Mérida,5105,28/11/2016,,None,None,None,True
+552773,Omar Javier Solano Albornoz,1191979699892921,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niteroi,24020140,05/02/2015,,None,None,None,True
+4326798,Sergio Roberto Freitas,9471808814332815,,,Instituto Federal Goiano Campus Urutaí,Instituto Federal Goiano Campus UrutaíBrasil,Go,Urutaí,75790000,10/04/2013,,None,None,None,True
+382600,Pouya Mehdipour Balagafsheh,0822713766130723,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo; Instituto de Ciências Matemáticas E de Computaçã,Brasil,Sp,São Carlos,13560970,17/08/2016,,None,None,None,True
+2172574,Isabel Lugao Rios,4683359336450214,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niteroi,24020140,17/02/2017,,None,None,None,True
+4559444,Bernardo Antônio San Martin Rebolledo,6881523016113995,,,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,29/10/2003,,None,None,None,True
+817998,Alexandre de Souza Soares,1759308179685346,Ciencias Exatas E da Terra,Matemática,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Brasil,Rj,Rio de Janeiro,20271110,17/09/2014,,None,None,None,True
+2909381,Renata Thomaz Lins do Nascimento,6290639944306423,Ciencias Exatas E da Terra,Ciência da Computação,Pontifícia Universidade Católica do Rio de Janeiro,Tecgraf/puc RioBrasil,Rj,Rio de Janeiro,22451900,20/04/2016,,None,None,None,True
+1912891,Gabriel Ponce,4127719883360128,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,Sao Carlos,13560970,17/02/2017,,None,None,None,True
+67021,Waliston Luiz Lopes Rodrigues Silva,0142018491634609,Ciencias Exatas E da Terra,Matemática,Universidade Federal de São João Del Rei,Brasil,Mg,Sao Joao Del Rei,20000000,13/02/2015,,None,None,None,True
+3595763,Ivan Wilber Aguilar Maron,7832004222256870,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Instituto de Ciências Exatas IcexBrasil,Rj,Volta Redonda,27213415,30/01/2016,,None,None,None,True
+3485073,Márcio Ricardo Alves Gouveia,7578944173575239,,,Universidade Estadual Paulista Júlio de Mesquita Filho,Instituto de Biociências Letras E Ciências Exatas de São José do Rio PretoBrasil,Sp,Sao Jose do Rio Preto,15054000,16/12/2016,,None,None,None,True
+4081880,Jaques Gheiner,8927623546633392,Ciencias Exatas E da Terra,Matemática,,,,,,10/04/2015,,None,None,None,True
+2470012,Paulo Rogerio Sabini,5328486414715088,Ciencias Exatas E da Terra,Matemática,Universidade do Estado do Rio de Janeiro,Centro de Tecnologia E CiênciasBrasil,Rj,Rio de Janeiro,20559900,16/04/2007,,None,None,None,True
+2232923,Vitor Domingos Martins de Araujo,4817632811350748,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Departamento de Matemática / Instituto de MatemáticaBrasil,Ba,Salvador,40170110,13/02/2017,,None,None,None,True
+2691371,Carlos Gustavo Tamm de Araujo Moreira,5809459915075654,Ciencias Exatas E da Terra,Matemática,Instituto de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,08/08/2016,,None,None,None,True
+545474,Tatiana Miguel Rodrigues,1175816786620680,Ciencias Exatas E da Terra,Matemática,Universidade Estadual Paulista Júlio de Mesquita Filho,Faculdade de Ciências de BauruBrasil,Sp,Bauru,17033360,03/11/2016,,None,None,None,True
+2758801,Cesar de Souza Eschenazi,5957558589687388,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Minas Gerais,Instituto de Ciências ExatasBrasil,Mg,Belo Horizonte,31270901,26/08/2016,,None,None,None,True
+858265,Mariana Pinheiro Gomes da Silva,1848784077302555,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Recôncavo da Bahia,Cetec Centro de Ciências Exatas E TecnológicasBrasil,Ba,Cruz das Almas,45662900,19/04/2016,,None,None,None,True
+528344,Rafael Silva Pereira,1139404227660067,Ciencias Exatas E da Terra,Ciência da Computação,Rede Globo Matriz,Brasil,Rj,Rio de Janeiro,22640100,08/01/2016,,None,None,None,True
+1760065,Luis Gustavo Nonato,3794241680729178,Ciencias Exatas E da Terra,Ciência da Computação,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,Sao Carlos,13560970,25/01/2017,,None,None,None,True
+4112076,Thiago Bomfim São Luiz Nunes,8997137904643903,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Instituto de MatemáticaBrasil,Ba,Salvador,40170110,14/02/2017,,None,None,None,True
+2200508,Flávia Malta Branco,4744910802454008,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,09/06/2016,,None,None,None,True
+2431749,Vanessa Ribeiro Ramos,5246589426102789,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Maranhão,Centro TecnológicoBrasil,Ma,São Luís,65080805,22/12/2016,,None,None,None,True
+2582180,Fernanda Pereira Rodrigues,5567807797141214,Ciencias Exatas E da Terra,Matemática,,,,,,09/02/2017,,None,None,None,True
+1427321,Mario Rodolfo Roldán Daquilema,3081767004979591,,,Pontifícia Universidade Católica do Rio de Janeiro,Brasil,Rj,Rio de Janeiro,22451900,27/10/2016,,None,None,None,True
+4325106,Elismar da Rosa Oliveira,9467854376672538,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,24/12/2016,,None,None,None,True
+47416,Paulo Brandao,0100940028240882,Ciencias Exatas E da Terra,Química,Centro Universitário Fieo,Centro Universitário FieoBrasil,Sp,Osasco,06020190,28/03/2011,,None,None,None,True
+820661,Lucas Henrique Backes,1765268304323370,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,01/12/2016,,None,None,None,True
+3746778,Bruno Brogni Uggioni,8173156759985387,Ciencias Exatas E da Terra,Matemática,,,,,,22/01/2017,,None,None,None,True
+587396,Ali Tahzibi,1264599606957267,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,São Carlos,13560970,26/09/2016,,None,None,None,True
+960854,Ady Cambraia Junior,2073014105994416,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Viçosa,Centro de Ciências Exatas Departamento de MatemáticaBrasil,Mg,Viçosa,36570000,04/05/2015,,None,None,None,True
+370998,Carlos Matheus Silva Santos,0797174685549907,Ciencias Exatas E da Terra,Matemática,Centre National de La Recherche Scientifique,França,,Villetaneuse,,28/01/2017,,None,None,None,True
+4427559,Paulo Roberto Grossi Sad,9700223144761798,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,22/08/2016,,None,None,None,True
+2960103,Eduardo Casagrande Stabel,6402813587470564,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Santa Maria,Brasil,Rs,Santa Maria,97105900,05/08/2016,,None,None,None,True
+4543797,Carlos Arnoldo Morales Rojas,9967071085032117,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Brasil,Rj,Rio de Janeiro,99999999,05/12/2016,,None,None,None,True
+1591416,André Junqueira,3429253208444295,Engenharias,Engenharia Civil,,,,,,27/11/2015,,None,None,None,True
+3653142,Antonio Teofilo Ataide do Nascimento,7962986600716773,Ciencias Exatas E da Terra,Matemática,Universidade do Estado da Bahia,Dcet/campus IiBrasil,Ba,Alagoinhas,48000000,29/03/2016,,None,None,None,True
+4035170,Edgar Matias da Silva,8819986646476415,,,,,,,,25/11/2016,,None,None,None,True
+3523722,Miguel Adriano Koiller Schnoor,7666679538523535,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Brasil,Rj,Volta Redonda,27213145,24/11/2016,,None,None,None,True
+2253539,Karla Diaz Ordaz Avila,4862580498292199,Ciencias Exatas E da Terra,Matemática,,,,,,03/08/2006,,None,None,None,True
+1966755,Alex Laier Bordignon,4242314850775165,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Rio de Janeiro,24020140,21/08/2015,,None,None,None,True
+1309768,Gilles Gonçalves de Castro,2823925789462856,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Santa Catarina,Departamento de MatemáticaBrasil,Sc,Florianópolis,88040900,06/02/2017,,None,None,None,True
+3121095,Carlos Felipe Lardizabal Rodrigues,6764537889916908,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,30/01/2017,,None,None,None,True
+4340937,Rafael Barbosa Nasser,9503735014198416,Ciencias Exatas E da Terra,Ciência da Computação,Pontifícia Universidade Católica do Rio de Janeiro,Laboratório de Engenharia de SoftwareBrasil,Rj,Rio de Janeiro,22451900,05/10/2016,,None,None,None,True
+2347462,Thiago Aparecido Catalan,5068298855327116,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Uberlândia,Centro de Ciências Exatas E TecnologiaBrasil,Mg,Uberlândia,38408100,20/01/2017,,None,None,None,True
+3556072,Fernando Pereira Micena,7740908006622168,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Alagoas,Instituto de MatemáticaBrasil,Al,Maceió,57072970,21/11/2016,,None,None,None,True
+3449517,Andrêssa Lima de Souza,7501296001187465,Ciencias Exatas E da Terra,Matemática,,,,,,30/11/2016,,None,None,None,True
+4039578,Carlos Bocker Neto,8829898424320537,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Paraíba,Centro de Ciências Exatas E da Natureza Campus IBrasil,Pb,João Pessoa,58051900,09/02/2017,,None,None,None,True
+2167523,Fabiano Petronetto do Carmo,4671884448020130,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Espírito Santo,Centro de Ciências ExatasBrasil,Es,Vitoria,29075910,29/08/2016,,None,None,None,True
+487158,Paulo Joia Filho,1050961885303209,Ciencias Exatas E da Terra,Probabilidade E Estatística,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,São Carlos,13566590,06/02/2017,,None,None,None,True
+3883862,Patricia Romano Cirilo,8477080812857959,Ciencias Exatas E da Terra,Matemática,Universidade Federal de São Paulo,Campus São José dos CamposBrasil,Sp,São José dos Campos,12247014,13/12/2016,,None,None,None,True
+132178,Fernando Antonio de Araujo Carneiro,0280289142260280,Ciencias Exatas E da Terra,Matemática,Universidade do Estado do Rio de Janeiro,Centro de Tecnologia E CiênciasBrasil,Rj,Rio de Janeiro,20550013,22/02/2017,,None,None,None,True
+255987,Karen Carrilho da Silva Lira,0544115829751480,Ciencias Exatas E da Terra,Matemática,Universidade Tecnológica Federal do Paraná,Campus ToledoBrasil,Pr,Toledo,85902490,16/12/2016,,None,None,None,True
+381277,Alejandro Kocsard,0819765442982306,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,17/02/2017,,None,None,None,True
+3495372,Enoch Humberto Apaza Calla,7602550048892347,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Viçosa,Universidade Federal de ViçosaBrasil,Mg,Viçosa,36570000,31/08/2015,,None,None,None,True
+4164119,Artem Raibekas,9112553123765129,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Brasil,Rj,Niterói,24020140,17/02/2017,,None,None,None,True
+988292,Alancardek Pereira Araujo,2131363687907189,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Espírito Santo,Centro de Ciências ExatasBrasil,Es,Vitória,29075910,24/10/2016,,None,None,None,True
+1886292,Adriano Oliveira Barbosa,4070657423906906,Ciencias Exatas E da Terra,Matemática,,,,,,02/05/2017,,None,None,None,True
+4167278,Yang Jiagang,9119414552487545,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,23/01/2017,,None,None,None,True
+661422,Jorge Luis Crisostomo Parejas,1421545399001680,Ciencias Exatas E da Terra,Matemática,,,,,,29/09/2016,,None,None,None,True
+3948655,Douglas Cedrim Oliveira,8621490090221615,Ciencias Exatas E da Terra,Ciência da Computação,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,São Carlos,13566590,23/02/2017,,None,None,None,True
+3863558,Marcos Craizer,8432199070549609,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Centro Técnico CientíficoBrasil,Rj,Rio de Janeiro,22453900,19/02/2017,,None,None,None,True
+4153373,Mohammad Fanaee,9088583212495136,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Instituto de Matemática E EstatísticaBrasil,Rj,Niterói,24020140,12/02/2016,,None,None,None,True
+929589,Liane Bordignon,2006837879147196,Ciencias Exatas E da Terra,Matemática,Universidade Federal de São Carlos,Centro de Ciências Exatas E de TecnologiaBrasil,Sp,São Carlos,13565905,09/12/2014,,None,None,None,True
+4380886,German Aubin Arroyo Camacho,9592271441424307,Ciencias Exatas E da Terra,Matemática,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,01/09/2004,,None,None,None,True
+2910890,Eduardo Garibaldi,6294115118504803,Ciencias Exatas E da Terra,Matemática,Universidade Estadual de Campinas,Instituto de Matemática Estatística E Ciência da ComputaçãoBrasil,Sp,Campinas,13083859,24/02/2017,,None,None,None,True
+1115199,Karina Daniela Marin,2402515292422136,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Brasil,Rj,Rio de Janeiro,22451900,31/08/2016,,None,None,None,True
+4559923,Ricardo Mane,5685539641284369,,,,,,,,,,None,None,None,True
+324529,Eduardo Colli,0694302682822936,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Instituto de Matemática E EstatísticaBrasil,Sp,Sao Paulo,05508090,31/01/2017,,None,None,None,True
+3139350,Giovane Ferreira Silva,6807245032593756,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Maranhão,Centro TecnológicoBrasil,Ma,São Luís,65080805,20/02/2017,,None,None,None,True
+2522898,Xiaochuan Liu,5441430701780990,,,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,24/02/2016,,None,None,None,True
+3721403,Lhaylla dos Santos Crissaff,8117348083451032,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,29/06/2016,,None,None,None,True
+3680056,Nivaldo Costa Muniz,8025025547344580,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Maranhão,Centro TecnológicoBrasil,Ma,Sao Luis,65000000,07/12/2015,,None,None,None,True
+4513064,Maria Jose Pacifico,9896747816468168,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Instituto de Matemática UfrjBrasil,Rj,Rio de Janeiro,21941909,15/02/2017,,None,None,None,True
+4161989,Serafin Bautista Diaz,9107987966255413,Ciencias Exatas E da Terra,Matemática,Universidad Nacional de Colombia Bogotá,Colômbia,,Bogotá,0,01/02/2017,,None,None,None,True
+4510370,Antonio Castelo Filho,9890260144844047,Engenharias,Engenharia Mecânica,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,Sao Carlos,13560970,19/12/2016,,None,None,None,True
+4368282,Pablo Dávalos de La Pena,9563476584329979,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Brasil,Sp,Sao Paulo,05508090,19/03/2012,,None,None,None,True
+3069873,Dirce Uesu Pesco,6646987032040595,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niteroi,24020140,02/10/2016,,None,None,None,True
+3079185,Márcio Lima do Nascimento,6668311810812135,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Pará,Centro de Ciências Exatas E NaturaisBrasil,Pa,Belem,66050900,16/12/2016,,None,None,None,True
+3089308,Nuno Alexandre Martins de Matos Luzia,6692057199415709,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Instituto de MatemáticaBrasil,Rj,Rio de Janeiro,21945970,15/12/2016,,None,None,None,True
+4415644,Rener Pereira de Castro,9671600615319105,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Departamento de MatemáticaBrasil,Rj,Rio de Janeiro,22453900,28/11/2008,,None,None,None,True
+2600321,Rafael Nóbrega de Oliveira Lucena,5607372529328180,,,,,,,,15/08/2016,,None,None,None,True
+2073864,Sergio Augusto Romaña Ibarra,4469607587986658,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Instituto de MatemáticaBrasil,Rj,Rio de Janeiro,21941909,23/11/2015,,None,None,None,True
+1207480,Jorge Adrian Beloqui,2597867777721638,,,Universidade de São Paulo,Instituto de Matemática E EstatísticaBrasil,Sp,Sao Paulo,05508090,23/08/2015,,None,None,None,True
+1951680,Ivana de Vasconcellos Latosinski,4210839568118710,Ciencias Exatas E da Terra,Matemática,Universidade Federal de São João Del Rei,Departamento de Matemática E EstatíticaBrasil,Mg,São João Del Rei,36307352,11/04/2015,,None,None,None,True
+1689218,Marcos Aurélio Batista,3637940122788341,Ciencias Exatas E da Terra,Ciência da Computação,Universidade Federal de Goiás,Campus Avançado de CatalãoBrasil,Go,Catalao,75704020,22/02/2017,,None,None,None,True
+52353,Flavio Erthal Abdenur,0111321896795593,Ciencias Exatas E da Terra,Matemática,,,,,,18/12/2016,,None,None,None,True
+3344452,Roger Véron,7267576781453820,,,Laboratório Nacional de Computação Científica,Brasil,Rj,Rio de Janeiro,25651075,30/10/2008,,None,None,None,True
+1837167,Martin Andersson,3964514727067876,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niteroi,24020140,10/02/2017,,None,None,None,True
+748435,Edson Vargas,1606389825259677,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Instituto de Matemática E EstatísticaBrasil,Sp,Sao Paulo,05508900,29/03/2016,,None,None,None,True
+2595239,Ricardo Turolla Bortolotti,5596171733972807,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Pernambuco,Centro de Ciências Exatas E da NaturezaBrasil,Pe,Recife,50670901,28/04/2016,,None,None,None,True
+4073151,Artur Avila Cordeiro de Melo,8907835195811403,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,10/08/2016,,None,None,None,True
+497524,Rafael Rigão Souza,1073654513865903,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,12/09/2016,,None,None,None,True
+2566137,Marcus Augusto Bronzi,5533638002071025,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Uberlândia,Centro de Ciências Exatas E TecnologiaBrasil,Mg,Uberlândia,38408100,21/09/2016,,None,None,None,True
+4203829,Helio Côrtes Vieira Lopes,9199970180870105,Ciencias Exatas E da Terra,Ciência da Computação,Pontifícia Universidade Católica do Rio de Janeiro,Departamento de InformáticaBrasil,Rj,Rio de Janeiro,22451900,10/02/2017,,None,None,None,True
+113217,Javier Alexis Correa Mayobre,0239624558405614,Ciencias Exatas E da Terra,Matemática,,,,,,01/09/2016,,None,None,None,True
+2301293,Ana Tércia Monteiro Oliveira,4968518760623931,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Juiz de Fora,Instituto de Ciências ExatasBrasil,Mg,Juiz de Fora,36036900,17/01/2017,,None,None,None,True
+1556512,José Ferreira Alves,3355665454361558,Ciencias Exatas E da Terra,Matemática,Universidade do Porto,Faculdade de CiênciasPortugal,,Porto,4169007,22/10/2015,,None,None,None,True
+2628778,Sinesio Pesco,5669901747051787,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Centro Técnico CientíficoBrasil,Rj,Rio de Janeiro,22453900,16/02/2017,,None,None,None,True
+2644756,Carlos Frederico Borges Palmeira,5705396194545773,Ciencias Exatas E da Terra,Matemática,Pontifícia Universidade Católica do Rio de Janeiro,Centro Técnico CientíficoBrasil,Rj,Rio de Janeiro,22453900,06/02/2017,,None,None,None,True
+1971736,Jimmy Santamaria Torrez,4252597663469712,Ciencias Exatas E da Terra,Matemática,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,30/07/2009,,None,None,None,True
+1711099,Laura Senos Lacerda Fernández,3686262726426280,Ciencias Exatas E da Terra,Matemática,,,,,,21/03/2016,,None,None,None,True
+49692,Vanderlei Minori Horita,0105667064747001,Ciencias Exatas E da Terra,Matemática,Universidade Estadual Paulista Júlio de Mesquita Filho,Instituto de Biociências Letras E Ciências Exatas de São José do Rio PretoBrasil,Sp,Sao Jose do Rio Preto,15054000,25/01/2017,,None,None,None,True
+4440490,José Régis Azevedo Varão Filho,9729493483105088,Ciencias Exatas E da Terra,Matemática,Universidade Estadual de Campinas,Instituto de Matemática Estatística E Ciência da ComputaçãoBrasil,Sp,Campinas,13083859,17/02/2017,,None,None,None,True
+4327048,Paulo Rogerio Souza Brandao,9472439484975430,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,11/01/2017,,None,None,None,True
+4053566,Simone Dias Cruz,8862053638936591,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio Grande do Sul,Instituto de MatemáticaBrasil,Rs,Porto Alegre,91509900,28/05/2006,,None,None,None,True
+97360,Maria Izabel Tavares Camacho,0206961561900999,Ciencias Exatas E da Terra,Matemática,Fundação Getúlio Vargas,Ciclo Básico da Graduação FgvBrasil,Rj,Rio de Janeiro,22250900,12/09/2016,,None,None,None,True
+4555021,Andres Mauricio Lopez Barragan,9993361262055226,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Brasil,Rj,Rio de Janeiro,21941909,10/06/2016,,None,None,None,True
+3930599,Alexander Eduardo Arbieto Mendoza,8580927703666708,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Rio de Janeiro,Instituto de Pesquisa Planejamento Urbano E RegionalBrasil,Rj,Rio de Janeiro,21945970,13/10/2016,,None,None,None,True
+4237694,Afonso Paiva Neto,9274817658247444,Ciencias Exatas E da Terra,Matemática,Universidade de São Paulo,Instituto de Ciências Matemáticas E de ComputaçãoBrasil,Sp,São Carlos,13560970,24/02/2017,,None,None,None,True
+4020516,Krerley Irraciel Martins Oliveira,8786477162798042,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Alagoas,Departamento de Matemática UfalBrasil,Al,Maceió,57072900,29/09/2016,,None,None,None,True
+1254021,Regis Castijos Alves Soares Junior,2700615853737293,Ciencias Exatas E da Terra,Matemática,Universidade Federal de Juiz de Fora,Instituto de Ciências ExatasBrasil,Mg,Juiz de Fora,36036900,07/11/2016,,None,None,None,True
+2845979,Pablo Andrés Guarino Quiñones,6150401471992911,,,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,12/12/2015,,None,None,None,True
+4023935,Helton Hideraldo Bíscaro,8794441658476782,Ciencias Exatas E da Terra,Ciência da Computação,Universidade de São Paulo,Escola de Artes Ciências E HumanidadesBrasil,Sp,São Paulo,03828000,04/11/2016,,None,None,None,True
+2994026,Ítalo Dowell Lira Melo,6477816522355050,,,Universidade Federal do Piauí,Centro de Ciências da NaturezaBrasil,Pi,Teresina,64049550,09/11/2016,,None,None,None,True
+4560134,Maria Joao de Sousa Costa,1108541859236540,Ciencias Exatas E da Terra,Matemática,Associação Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,08/12/2003,,None,None,None,True
+1979587,Carla Lopes Dias,4269455667885085,Ciencias Exatas E da Terra,Matemática,Instituto Politécnico de Portalegre,Escola Superior de Tecnologia E GestãoPortugal,,Portalegre,7301901,18/09/2015,,None,None,None,True
+844042,Clarissa Codá dos Santos Cavalcanti Marques,1817879690605388,Ciencias Exatas E da Terra,Ciência da Computação,Tecnologia em Computação Gráfica Puc Rio,Brasil,Rj,Rio de Janeiro,22453900,12/10/2012,,None,None,None,True
+1423261,Fernando Nera Lenarduzzi,3072844415804352,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,06/02/2017,,None,None,None,True
+1917904,Marcos Proença de Almeida,4138131612948593,Ciencias Exatas E da Terra,Matemática,Instituto Federal do Triângulo Mineiro,Instituto Federal de Educação Ciência E Tecnologia do Triângulo MineiroBrasil,Mg,Uberaba,13566590,23/11/2016,,None,None,None,True
+1731873,Jairo da Silva Bochi,3731862056667378,Ciencias Exatas E da Terra,Matemática,Pontificia Universidad Católica de Chile,Facultad de MatemáticasChile,,Santiago,,01/02/2017,,None,None,None,True
+434034,Wescley Bonomo,0936768178787630,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Espírito Santo,Centro Universitário Norte do Espírito SantoBrasil,Es,São Mateus,29932540,08/12/2016,,None,None,None,True
+3579959,Lis Ingrid Roque Lopes Custódio,7796140172610375,,,Universidade do Estado do Rio de Janeiro,Centro de Tecnologia E CiênciasBrasil,Rj,Nova Friburgo,28625570,04/12/2016,,None,None,None,True
+2072970,Rafael Álvarez Bilbao,4467592959770053,Ciencias Exatas E da Terra,Matemática,,,,,,11/05/2016,,None,None,None,True
+1054911,Jacob Palis Junior,2273093016939875,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,09/08/2016,,None,None,None,True
+4559906,Eleonora Dolores Catsigeras Garcia,0545165518329772,Ciencias Exatas E da Terra,Matemática,,Brasil,Rj,Rio de Janeiro,22460320,16/10/2003,,None,None,None,True
+317499,Kleyber Mota da Cunha,0678346772995782,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Instituto de Matemática / Departamento de MatemáticaBrasil,Ba,Salvador,10170110,26/10/2016,,None,None,None,True
+4527018,Andrés Koropecki,9928782552704222,Ciencias Exatas E da Terra,Matemática,Universidade Federal Fluminense,Centro de Estudos GeraisBrasil,Rj,Niterói,24020140,20/02/2017,,None,None,None,True
+1417213,Elaís Cidely Souza Malheiro,3059724747792581,Ciencias Exatas E da Terra,Matemática,Universidade Federal da Bahia,Universidade Federal da BahiaBrasil,Ba,Salvador,40170110,18/02/2016,,None,None,None,True
+380859,Valdiane Sales Araujo,0818801264632485,Ciencias Exatas E da Terra,Matemática,Universidade Federal do Maranhão,Brasil,Ma,São Luís,65067340,06/12/2016,,None,None,None,True
+2953485,Alexandre de Lacassa,6387929896227408,Ciencias Exatas E da Terra,Ciência da Computação,,,,,,07/11/2014,,None,None,None,True
+10030188,Felipe Nobili,,,,,,,,,,,None,None,None,True
+10057415,Iaci Pereira Malta,,,,,,,,,,,None,None,None,True
+10037212,Artur Ávila,,,,,,,,,,,None,None,None,True
+10057425,S Luzzatto,,,,,,,,,,,None,None,None,True
+10057412,Neptalí Jesús Romero Bermúdez,,,,,,,,,,,None,None,None,True
+10057416,Rafael Eusebio Labarca,,,,,,,,,,,None,None,None,True
+10057429,L Blasdimir R Leal,,,,,,,,,,,None,None,None,True
+10076085,Francois Haab,,,,,,,,,,,None,None,None,True
+10057430,Raul Mario Ures,,,,,,,,,,,None,None,None,True
+10000799,Xin Li,,,,,,,,,,,None,None,None,True
+10057420,José Carlos Martinrivas,,,,,,,,,,,None,None,None,True
+10057422,M J Sambarino,,,,,,,,,,,None,None,None,True
+10076084,Gabriel Casalmiglia,,,,,,,,,,,None,None,None,True
+10013663,A Arroyo,,,,,,,,,,,None,None,None,True
+10057417,Jaime Vera Valenzuela,,,,,,,,,,,None,None,None,True
+10030187,Sebastian Pérez,,,,,,,,,,,None,None,None,True
+10057423,F J Sanches,,,,,,,,,,,None,None,None,True
+10000797,Mohammad Soufi,,,,,,,,,,,None,None,None,True
+10037211,Daniel Smania,,,,,,,,,,,None,None,None,True
+10017175,Dirce Uesu,,,,,,,,,,,None,None,None,True
+10016449,Alma Almijo Averil,,,,,,,,,,,None,None,None,True
+10057419,Lorenzo Justiniano Diaz,,,,,,,,,,,None,None,None,True
+10057414,F Rodriguez,,,,,,,,,,,None,None,None,True
+10057424,V Pinheiro,,,,,,,,,,,None,None,None,True
+10070950,Carlos Osvaldo Osuna Castro,,,,,,,,,,,None,None,None,True
+10067658,Yong Su Han,,,,,,,,,,,None,None,None,True
+10057409,Roberto Markarian,,,,,,,,,,,None,None,None,True
+10037650,Ila Fernandes,,,,,,,,,,,None,None,None,True
+10029835,Maria João Resende,,,,,,,,,,,None,None,None,True
+10057427,A Tahzib,,,,,,,,,,,None,None,None,True
+10021335,Stefano Luzzatto,,,,,,,,,,,None,None,None,True
+10037651,Clemen Alonso,,,,,,,,,,,None,None,None,True
+10016446,Wilmer Colmenares,,,,,,,,,,,None,None,None,True
+10057428,C H Vasquez,,,,,,,,,,,None,None,None,True
+10057410,Jorge Manuel Martins da Rocha,,,,,,,,,,,None,None,None,True
+10057413,R J Metzger,,,,,,,,,,,None,None,None,True
+10030185,Carlos Carballo,,,,,,,,,,,None,None,None,True
+10057411,Leonardo Enrique Mora,,,,,,,,,,,None,None,None,True
+10000796,Helder Soares Vilarinho,,,,,,,,,,,None,None,None,True
+10057418,Sergio Eugenio Plaza,,,,,,,,,,,None,None,None,True
+10016447,Ivan Aguilar,,,,,,,,,,,None,None,None,True
+10039107,Lis Ingrid Custódio de Melo,,,,,,,,,,,None,None,None,True
+10057426,F Rodriguezhertz,,,,,,,,,,,None,None,None,True
+10016448,Alfonso Artigue,,,,,,,,,,,None,None,None,True
+10057421,Pedro Miguel Nunes da Rosa Dias Duarte,,,,,,,,,,,None,None,None,True
+edgedef>node1 VARCHAR, node2 VARCHAR, nivelOrientacao VARCHAR, tipoOrientacao VARCHAR, anoInicio DOUBLE, anoConclusao DOUBLE, node1Nome VARCHAR, node2Nome VARCHAR, directed BOOLEAN, node1IsWiki VARCHAR, node2IsWiki VARCHAR
+49692,302874,doutorado,orientador,2009,2014,Vanderlei Minori Horita,Oyran Silva Rayzaro,true,False,False
+49692,380859,doutorado,orientador,2011,2015,Vanderlei Minori Horita,Valdiane Sales Araujo,true,False,False
+324529,3485073,doutorado,orientador,,2008,Eduardo Colli,Márcio Ricardo Alves Gouveia,true,False,False
+381277,2582180,doutorado,orientador,,2016,Alejandro Kocsard,Fernanda Pereira Rodrigues,true,False,False
+587396,382600,doutorado,orientador,,2014,Ali Tahzibi,Pouya Mehdipour,true,False,False
+587396,661422,doutorado,orientador,2013,2016,Ali Tahzibi,Jorge Luis Crisostomo Parejas,true,False,False
+587396,1912891,doutorado,orientador,,2014,Ali Tahzibi,Gabriel Ponce,true,False,False
+587396,2347462,doutorado,orientador,,2011,Ali Tahzibi,Thiago Aparecido Catalan,true,False,False
+587396,2566137,doutorado,orientador,2006,2010,Ali Tahzibi,Marcus Augusto Bronzi,true,False,False
+587396,3556072,doutorado,orientador,,2011,Ali Tahzibi,Fernando Pereira Micena,true,False,False
+587396,3861895,doutorado,orientador,2006,2009,Ali Tahzibi,Juliano Gonçalves Oler,true,False,False
+651419,52353,doutorado,orientador,1998,2002,Marcelo Viana,Flavio Erthal Abdenur,true,True,False
+651419,838347,doutorado,orientador,2012,2016,Marcelo Viana,Mauricio José Poletti Merlo,true,True,False
+651419,1556512,doutorado,orientador,1993,1997,Marcelo Viana,José Ferreira Alves,true,True,False
+651419,3089308,doutorado,orientador,2000,2005,Marcelo Viana,Nuno Alexandre Martins de Matos Luzia,true,True,False
+675426,434034,doutorado,orientador,2013,2016,Paulo Cesar Rodrigues Pinto Varandas,Wescley Bonomo,true,False,False
+675426,4074733,doutorado,orientador,2013,2016,Paulo César Rodrigues Pinto Varandas,Anderson Reis da Cruz,true,False,False
+748435,929589,doutorado,orientador,,2003,Edson Vargas,Liane Bordignon,true,False,False
+748435,988292,doutorado,orientador,1994,1998,Edson Vargas,Alancardek Pereira Araujo,true,False,False
+748435,2083438,doutorado,orientador,2009,2014,Edson Vargas,Tiago Estrela de Oliveira,true,False,False
+748435,3079185,doutorado,orientador,1995,2001,Edson Vargas,Márcio Lima do Nascimento,true,False,False
+1054911,47416,doutorado,orientador,,2013,Jacob Palis Junior,Paulo Brandão,true,False,False
+1054911,97360,doutorado,orientador,1974,1978,Jacob Palis,Maria Izabel Tavares Camacho,true,True,False
+1054911,324529,doutorado,orientador,1993,1996,Jacob Palis Junior,Eduardo Colli,true,False,False
+1054911,587396,doutorado,orientador,1998,2002,Jacob Palis Junior,Ali Tahzibi,true,False,False
+1054911,661193,doutorado,orientador,1970,1972,Jacob Palis Junior,Pedro Mendes,true,False,True
+1054911,1171829,doutorado,orientador,1985,1990,Jacob Palis,Lorenzo Justiniano Diaz Casado,true,True,False
+1054911,1207480,doutorado,orientador,,1981,Jacob Palis Junior,Jorge Adrian Beloqui,true,False,False
+1054911,2204140,doutorado,orientador,1970,1972,Jacob Palis Junior,Welington Celso de Melo,true,False,False
+1054911,2492948,doutorado,orientador,1994,2000,Jacob Palis Junior,Vilton Jeovan Viana Pinheiro,true,False,False
+1054911,2644756,doutorado,orientador,,1976,Jacob Palis Junior,Carlos Frederico Borges Palmeira,true,False,False
+1054911,2691371,doutorado,orientador,1990,1993,Jacob Palis Junior,Carlos Gustavo Tamm de Araujo Moreira,true,False,False
+1054911,2884069,doutorado,orientador,1986,1990,Jacob Palis,Marcelo Miranda Viana da Silva,true,True,False
+1054911,3321506,doutorado,orientador,1972,1978,Jacob Palis Junior,Genesio Lima dos Reis,true,False,False
+1054911,3328915,doutorado,orientador,1992,1996,Jacob Palis Junior,Enrique Ramiro Pujals,true,False,False
+1054911,3443841,doutorado,orientador,1971,1976,Jacob Palis,Geovan Tavares dos Santos,true,True,False
+1054911,4081880,doutorado,orientador,1985,1989,Jacob Palis Junior,Jaques Gheiner,true,False,False
+1054911,4327048,doutorado,orientador,1993,2013,Jacob Palis Junior,Paulo Rogerio Souza Brandao,true,False,False
+1054911,4380886,doutorado,orientador,2000,2002,Jacob Palis Junior,German Aubin Arroyo Camacho,true,False,False
+1054911,4388383,doutorado,orientador,1974,1977,Jacob Palis,Artur Oscar Lopes,true,True,True
+1054911,4427559,doutorado,orientador,,1977,Jacob Palis Junior,Paulo Roberto Grossi Sad,true,False,False
+1054911,4506838,doutorado,orientador,1974,1978,Jacob Palis Júnior,Luiz Fernando Carvalho da Rocha,true,False,False
+1054911,4543797,doutorado,orientador,1990,1994,Jacob Palis,Carlos Arnoldo Morales Rojas,true,True,False
+1054911,4559444,doutorado,orientador,1989,1995,Jacob Palis Junior,Bernardo Antônio San Martin Rebolledo,true,False,False
+1054911,4559906,doutorado,orientador,1989,1995,Jacob Palis Junior,Eleonora Dolores Catsigeras Garcia,true,False,False
+1054911,4559923,doutorado,orientador,,1973,Jacob Palis Junior,Ricardo Mañe,true,False,False
+1171829,283391,doutorado,orientador,2012,2016,Lorenzo Justiniano Díaz Casado,Sebastian Alejandro Pérez Opazo,true,False,False
+1171829,2725058,doutorado,orientador,2008,2012,Lorenzo Justiniano Diaz Casado,Luiz Felipe Nobili França,true,False,False
+1171829,2886921,doutorado,orientador,2007,2012,Lorenzo Justiniano Diaz Casado,Yuri Ki,true,False,False
+1171829,4035170,doutorado,orientador,2012,2016,Lorenzo Justiniano Diaz Casado,Edgar Matias da Silva,true,False,False
+1171829,4352238,doutorado,orientador,,2014,Lorenzo Justiniano Diaz Casado,Tiane Marcarini Pinto,true,False,False
+1498669,255987,doutorado,orientador,,2013,Thomas Maurice Lewiner,Karen Carrilho da Silva,true,False,False
+1498669,298383,doutorado,orientador,,2013,Thomas Maurice Lewiner,Jyrko Correa Morris,true,False,False
+1498669,844042,doutorado,orientador,,2007,Thomas Maurice Lewiner,Clarissa Codá dos Santos Cavalcanti Marques,true,False,False
+1498669,2199705,doutorado,orientador,,2010,Thomas Maurice Lewiner,Allyson Ney Teodosio Cabral,true,False,False
+1498669,2644751,doutorado,orientador,,2014,Thomas Maurice Lewiner,João Antônio Récio da Paixão,true,False,False
+1498669,2909381,doutorado,orientador,,2011,Thomas Maurice Lewiner,Renata Thomaz Lins do Nascimento,true,False,False
+1498669,3344452,doutorado,orientador,,2011,Thomas Maurice Lewiner,Roger Véron,true,False,False
+1498669,3750255,doutorado,orientador,,2010,Thomas Maurice Lewiner,Thales Miranda de Almeida Vieira,true,False,False
+1498669,4514759,doutorado,orientador,,2011,Thomas Maurice Lewiner,Maria de Andrade Costa,true,False,False
+1556512,241838,doutorado,orientador,2008,2012,José Ferreira Alves,Mohammad Soufi Neyestani,true,False,False
+1556512,1979587,doutorado,orientador,,2009,José Ferreira Alves,Carla Lopes Dias,true,False,False
+1556512,3930580,doutorado,orientador,2007,2013,José Ferreira Alves,Davide Manuel Santos Azevedo,true,False,False
+1731873,3523722,doutorado,orientador,,2012,Jairo da Silva Bochi,Miguel Adriano Koiller Schnoor,true,False,False
+1760065,487158,doutorado,orientador,,2015,Luis Gustavo Nonato,Paulo Joia Filho,true,False,False
+1760065,583902,doutorado,orientador,,2009,Luis Gustavo Nonato,Mario Augusto de Souza Lizier,true,False,False
+1760065,1517170,doutorado,orientador,2010,2014,Luis Gustavo Nonato,Wallace Correa de Oliveira Casaca,true,False,False
+1760065,1689218,doutorado,orientador,,2011,Luis Gustavo Nonato,Marcos Aurélio Batista,true,False,False
+1760065,1886292,doutorado,orientador,2012,2016,Luis Gustavo Nonato,Adriano Oliveira Barbosa,true,False,False
+1760065,2387562,doutorado,orientador,,2008,Luis Gustavo Nonato,Kémelli Campanharo Estácio,true,False,False
+1760065,4250472,doutorado,orientador,,2007,Luis Gustavo Nonato,Alex Jesús Cuadros Vargas,true,False,False
+2172574,4158898,doutorado,orientador,2008,2013,Isabel Lugão Rios,Jaqueline Siqueira Rocha,true,False,False
+2174864,298383,doutorado,orientador,2009,2013,Fernando Codá dos Santos Cavalcanti Marques,Jyrko Correa Morris,true,False,False
+2204140,381277,doutorado,orientador,2003,2007,Welington Celso de Melo,Alejandro Kocsard,true,False,False
+2204140,748435,doutorado,orientador,,1989,Welington Celso de Melo,Edson Vargas,true,False,False
+2204140,2256871,doutorado,orientador,,1982,Welington Celso de Melo,Antonio Augusto Gaspar Ruas,true,False,False
+2204140,2511119,doutorado,orientador,1998,2001,Welington Celso de Melo,Daniel Smania Brandão,true,False,False
+2204140,2845979,doutorado,orientador,2008,2012,Welington de Melo,Pablo Andrés Guarino Quiñones,true,True,False
+2204140,4073151,doutorado,orientador,1998,2001,Welington Celso de Melo,Artur Avila Cordeiro de Melo,true,False,False
+2204140,4513064,doutorado,orientador,1976,1980,Welington Celso de Melo,Maria Jose Pacifico,true,False,False
+2232923,858265,doutorado,orientador,2008,2012,Maria José Pacífico,Mariana Pinheiro Gomes da Silva,true,False,False
+2232923,1612074,doutorado,orientador,2008,2012,Vítor Domingos Martins de Araujo,Luciana Silva Salgado,true,False,False
+2232923,3449517,doutorado,orientador,,2017,Vitor Domingos Martins de Araujo,Andrêssa Lima de Souza,true,False,False
+2300107,2644756,doutorado,orientador,1971,1976,Paul Alexander Schweitzer,Carlos Frederico Borges Palmeira,true,False,False
+2492948,3506736,doutorado,orientador,,2015,Vilton Jeovan Viana Pinheiro,Kátia Silene Ferreira Lima Rocha,true,False,False
+2511119,237185,doutorado,orientador,2004,2007,Daniel Smania Brandão,Judith Hayde Cruz Torres,true,False,False
+2511119,317499,doutorado,orientador,2007,2011,Daniel Smania Brandão,Kleyber Mota da Cunha,true,False,False
+2511119,473302,doutorado,orientador,2011,2015,Daniel Smania Brandão,Amanda de Lima,true,False,False
+2511119,545474,doutorado,orientador,2006,2010,Daniel Smania Brandão,Tatiana Miguel Rodrigues,true,False,False
+2511119,1304399,doutorado,orientador,,2013,Daniel Smania Brandão,Jose Humberto Bravo Vidarte,true,False,False
+2511119,2275528,doutorado,orientador,2011,2015,Daniel Smania Brandão,Carlos Alberto Siqueira Lima,true,False,False
+2546831,3653142,doutorado,orientador,2010,2014,Augusto Armando de Castro Junior,Antonio Teofilo Ataide do Nascimento,true,False,False
+2546831,4112076,doutorado,orientador,2012,2014,Augusto Armando de Castro Junior,Thiago Bomfim São Luiz Nunes,true,False,False
+2628778,3579959,doutorado,orientador,2010,2014,Sinesio Pesco,Lis Ingrid Roque Lopes Custódio,true,False,False
+2644756,1770727,doutorado,orientador,1993,1998,Carlos Frederico Borges Palmeira,Francisco Satuf Rezende,true,False,False
+2644756,2758801,doutorado,orientador,1986,1992,Carlos Frederico Borges Palmeira,Cesar de Souza Eschenazi,true,False,False
+2691371,67021,doutorado,orientador,2005,2011,Carlos Gustavo Tamm de Araújo Moreira,Waliston Luiz Lopes Rodrigues Silva,true,False,False
+2691371,321165,doutorado,orientador,,2012,Carlos Gustavo Tamm de Araujo Moreira,Jorge Erick López Velázquez,true,False,False
+2691371,2073864,doutorado,orientador,,2013,Carlos Gustavo Tamm de Araujo Moreira,Sergio Augusto Romaña Ibarra,true,False,False
+2745779,988292,doutorado,orientador,,2012,Celso José Munaro,Alancardek Araujo Pereira,true,False,False
+2884069,49692,doutorado,orientador,,1999,Marcelo Miranda Viana da Silva,Vanderlei Minori Horita,true,False,False
+2884069,52353,doutorado,orientador,,2002,Marcelo Miranda Viana da Silva,Flavio Erthal Abdenur,true,False,False
+2884069,97827,doutorado,orientador,2000,2003,Marcelo Miranda Viana,Anne Michelle Dysman Gomes,true,False,False
+2884069,370998,doutorado,orientador,,2004,Marcelo Miranda Viana da Silva,Carlos Matheus Silva Santos,true,False,False
+2884069,552773,doutorado,orientador,,2009,Marcelo Miranda Viana da Silva,Omar Javier Solano,true,False,False
+2884069,675426,doutorado,orientador,,2007,Marcelo Miranda Viana da Silva,Paulo Cesar Rodrigues Pinto Varandas,true,False,False
+2884069,820661,doutorado,orientador,,2015,Marcelo Miranda Viana da Silva,Lucas Backes,true,False,False
+2884069,838347,doutorado,orientador,,2016,Marcelo Miranda Viana da Silva,Maurício José Poletti Merlo,true,False,False
+2884069,1115199,doutorado,orientador,,2015,Marcelo Miranda Viana da Silva,Karina Marin,true,False,False
+2884069,1171158,doutorado,orientador,,2013,Marcelo Miranda Viana da Silva,Michel Cambrainha de Paula,true,False,False
+2884069,1417213,doutorado,orientador,,2014,Marcelo Miranda Viana da Silva,Elaís Cidely Malheiro,true,False,False
+2884069,1556512,doutorado,orientador,,1997,Marcelo Miranda Viana da Silva,José Ferreira Alves,true,False,False
+2884069,1731873,doutorado,orientador,1997,2001,Marcelo Miranda Viana da Silva,Jairo da Silva Bochi,true,False,False
+2884069,1837167,doutorado,orientador,,2007,Marcelo Miranda Viana da Silva,Martin Andersson,true,False,False
+2884069,1971736,doutorado,orientador,,2007,Marcelo Miranda Viana da Silva,Jimmy Santamaria,true,False,False
+2884069,2172574,doutorado,orientador,,1998,Marcelo Miranda Viana da Silva,Isabel Lugao Rios,true,False,False
+2884069,2232923,doutorado,orientador,,1998,Marcelo Miranda Viana da Silva,Vítor Domingos Araújo,true,False,False
+2884069,2431749,doutorado,orientador,2009,2013,Marcelo Miranda Viana da Silva,Vanessa Ribeiro Ramos,true,False,False
+2884069,2470012,doutorado,orientador,,2001,Marcelo Miranda Viana da Silva,Paulo Rogério Sabini,true,False,False
+2884069,2546831,doutorado,orientador,,1998,Marcelo Miranda Viana da Silva,Augusto Armando de Castro Júnior,true,False,False
+2884069,2595239,doutorado,orientador,,2014,Marcelo Miranda Viana da Silva,Ricardo Turolla Bortolotti,true,False,False
+2884069,3089308,doutorado,orientador,,2005,Marcelo Miranda Viana da Silva,Nuno Alexandre Martins de Matos Luzia,true,False,False
+2884069,3680056,doutorado,orientador,,2001,Marcelo Miranda Viana da Silva,Nivaldo Costa Muniz,true,False,False
+2884069,3930599,doutorado,orientador,2001,2004,Marcelo Miranda Viana da Silva,Alexander Eduardo Arbieto Mendoza,true,False,False
+2884069,4020516,doutorado,orientador,1999,2002,Marcelo Miranda Viana da Silva,Krerley Irraciel Martins Oliveira,true,False,False
+2884069,4039578,doutorado,orientador,,2009,Marcelo Miranda Viana da Silva,Carlos Bocker Neto,true,False,False
+2884069,4153373,doutorado,orientador,,2010,Marcelo Miranda Viana da Silva,Mohammad Fanaee,true,False,False
+2884069,4167278,doutorado,orientador,,2008,Marcelo Miranda Viana da Silva,Yang Jiagang,true,False,False
+2884069,4440490,doutorado,orientador,2008,2012,Marcelo Miranda Viana da Silva,José Régis Azevedo Varão Filho,true,False,False
+2884069,4441603,doutorado,orientador,,2009,Marcelo Miranda Viana da Silva,Alien Herrera Torres,true,False,False
+2884069,4540666,doutorado,orientador,,2000,Marcelo Miranda Viana da Silva,Alexandre Tavares Baraviera,true,False,False
+2884069,4560134,doutorado,orientador,1996,1998,Marcelo Miranda Viana,Maria Joao de Sousa Costa,true,False,False
+2910890,3896323,doutorado,orientador,,2017,Eduardo Garibaldi,Cleber Fernando Colle,true,False,False
+3328915,113217,doutorado,orientador,2010,2014,Enrique Ramiro Pujals,Javier Alexis Correa Mayobre,true,False,False
+3328915,132178,doutorado,orientador,2007,2011,Enrique Ramiro Pujals,Fernando Antonio de Araujo Carneiro,true,False,False
+3328915,1248005,doutorado,orientador,,2006,Enrique Ramiro Pujals,Meysam Nassiri,true,False,False
+3328915,1289421,doutorado,orientador,,2005,Enrique Ramiro Pujals,Sergio Munoz,true,False,False
+3328915,1423261,doutorado,orientador,2012,2016,Enrique Ramiro Pujals,Fernando Nera Lenarduzzi,true,False,False
+3328915,1427321,doutorado,orientador,,2014,Enrique Ramiro Pujals,Mario Rodolfo Roldan Daquilema,true,False,False
+3328915,1951680,doutorado,orientador,,2012,Enrique Ramiro Pujals,Ivana de Vasconcellos Latosinski,true,False,False
+3328915,2275911,doutorado,orientador,2007,2011,Enrique Ramiro Pujals,Yuri Gomes Lima,true,False,False
+3328915,2301293,doutorado,orientador,2007,2011,Enrique Ramiro Pujals,Ana Tércia Monteiro Oliveira,true,False,False
+3328915,2503166,doutorado,orientador,,2009,Enrique Ramiro Pujals,Francisco Javier Valenzuela Henriquez,true,False,False
+3328915,2994026,doutorado,orientador,2012,2016,Enrique Ramiro Pujals,Ítalo Dowell Lira Melo,true,False,False
+3328915,3883862,doutorado,orientador,2007,2011,Enrique Ramiro Pujals,Patricia Romano Cirilo,true,False,False
+3328915,4036916,doutorado,orientador,2006,2010,Enrique Ramiro Pujals,Cristina Lizana Araneda,true,False,False
+3328915,4164119,doutorado,orientador,2007,2011,Enrique Pujals,Artem Raibekas,true,True,False
+3328915,4368282,doutorado,orientador,,2011,Enrique Ramiro Pujals,Pablo Dávalos de La Pena,true,False,False
+3328915,4527018,doutorado,orientador,,2007,Enrique Ramiro Pujals,Andres Koropecki,true,False,False
+3443841,1760065,doutorado,orientador,,1998,Geovan Tavares dos Santos,Luis Gustavo Nonato,true,False,False
+3443841,1966755,doutorado,orientador,2006,2010,Geovan Tavares dos Santos,Alex Laier Bordignon,true,False,False
+3443841,2167523,doutorado,orientador,2004,2008,Geovan Tavares,Fabiano Petronetto do Carmo,true,False,False
+3443841,2628778,doutorado,orientador,,1997,Geovan Tavares dos Santos,Sinésio Pesco,true,False,False
+3443841,3069873,doutorado,orientador,1994,2000,Geovan Tavares dos Santos,Dirce Uesu Pesco,true,False,False
+3443841,4203829,doutorado,orientador,1992,1996,Geovan Tavares dos Santos,Helio Côrtes Vieira Lopes,true,False,False
+3443841,4237694,doutorado,orientador,,2007,Geovan Tavares dos Santos,Afonso Paiva Neto,true,False,False
+3443841,4326798,doutorado,orientador,,1991,Geovan Tavares dos Santos,Sergio Roberto Freitas,true,False,False
+3443841,4415644,doutorado,orientador,,2008,Geovan Tavares dos Santos,Rener Pereira de Castro,true,False,False
+3443841,4510370,doutorado,orientador,,1992,Geovan Tavares dos Santos,Antonio Castelo,true,False,False
+3863558,960854,doutorado,orientador,2009,2015,Marcos Craizer,Ady Cambraia Junior,true,False,False
+3863558,3721403,doutorado,orientador,2005,2009,Marcos Craizer,Lhaylla dos Santos Crissaff,true,False,False
+3930599,528288,doutorado,orientador,,2015,Alexander Eduardo Arbieto Mendoza,Bruno Santiago,true,False,False
+3930599,1501428,doutorado,orientador,,2013,Alexander Eduardo Arbieto Mendoza,Adilson Lopes dos Santos,true,False,False
+3930599,1591416,doutorado,orientador,,2012,Alexander Eduardo Arbieto Mendoza,Andre Junqueira,true,False,False
+3930599,1711099,doutorado,orientador,,2010,Alexander Eduardo Arbieto Mendoza,Laura Senos Lacerda Fernández,true,False,False
+3930599,1888204,doutorado,orientador,,2015,Alexander Eduardo Arbieto Mendoza,Bernardo Carvalho,true,False,True
+3930599,2631816,doutorado,orientador,,2014,Alexander Eduardo Arbieto Mendoza,Tatiana Fernandes Sodero,true,False,False
+4020516,2072970,doutorado,orientador,2011,2015,Krerley Irraciel Martins Oliveira,Rafael Álvarez Bilbao,true,False,False
+4020516,3139350,doutorado,orientador,2011,2016,Krerley Irraciel Martins Oliveira,Giovane Ferreira Silva,true,False,False
+4073151,2522898,doutorado,orientador,2011,2016,Artur Avila Cordeiro de Melo,Xiaochuan Liu,true,False,False
+4203829,528344,doutorado,orientador,,2015,Helio Côrtes Vieira Lopes,Rafael Silva Pererira,true,False,False
+4203829,781867,doutorado,orientador,2006,2009,Hélio Côrtes Vieira Lopes,Marcos de Oliveira Lage Ferreira,true,False,False
+4203829,1498669,doutorado,orientador,2003,2005,Hélio Côrtes Vieira Lopes,Thomas Maurice Lewiner,true,False,False
+4203829,2333986,doutorado,orientador,,2016,Helio Côrtes Vieira Lopes,Paula Ceccon Ribeiro,true,False,False
+4203829,3050649,doutorado,orientador,2007,2012,Hélio Côrtes Vieira Lopes,Marina Sequeiros Dias de Freitas,true,False,False
+4203829,3072889,doutorado,orientador,2005,2009,Hélio Côrtes Vieira Lopes,Jessica Quintanilha Kubrusly,true,False,False
+4203829,4340937,doutorado,orientador,,2016,Helio Côrtes Vieira Lopes,Rafael Nasser,true,False,False
+4388383,497524,doutorado,orientador,,2004,Artur Oscar Lopes,Rafael Rigão Souza,true,True,False
+4388383,993392,doutorado,orientador,,2010,Artur Oscar Lopes,Jairo Krás Mengue,true,True,False
+4388383,1309768,doutorado,orientador,,2009,Artur Oscar Lopes,Gilles Gonçalves de Castro,true,True,False
+4388383,2200508,doutorado,orientador,,2003,Artur Oscar Lopes,Flávia Malta Branco,true,True,False
+4388383,2910890,doutorado,orientador,,2006,Artur Oscar Lopes,Eduardo Garibaldi,true,True,False
+4388383,2960103,doutorado,orientador,,2011,Artur Oscar Lopes,Eduardo Casagrande Stable,true,True,False
+4388383,3121095,doutorado,orientador,,2010,Artur Oscar Lopes,Carlos Felipe Lardizabal Rodrigues,true,True,False
+4388383,3918447,doutorado,orientador,2004,2008,Artur Oscar Lopes,Joana Mohr,true,True,False
+4388383,4053566,doutorado,orientador,1998,2002,Artur Oscar Lopes,Simone Dias Cruz,true,True,False
+4388383,4325106,doutorado,orientador,,2007,Artur Oscar Lopes,Elismar da Rosa Oliveira,true,True,False
+4427559,15240,doutorado,orientador,2001,2005,Paulo Roberto Grossi Sad,Gabriel Calsamiglia Mendlewicz,true,False,False
+4510370,791149,doutorado,orientador,,2012,Antonio Castelo Filho,Fernanda Paula Barbosa,true,False,False
+4510370,1726447,doutorado,orientador,,2008,Antonio Castelo Filho,João Paulo Gois,true,False,False
+4510370,1859481,doutorado,orientador,2008,2012,Antonio Castelo Filho,Eliandro Rodrigues Cirilo,true,False,False
+4510370,1917904,doutorado,orientador,,2016,Antonio Castelo Filho,Marcos Proença de Almeida,true,False,False
+4510370,2953485,doutorado,orientador,,2012,Antonio Castelo Filho,Alexandre de Lacassa,true,False,False
+4510370,3948655,doutorado,orientador,2011,2016,Antonio Castelo Filho,Douglas Cedrim Oliveira,true,False,False
+4510370,4023935,doutorado,orientador,2001,2005,Antônio Castelo Filho,Helton Hideraldo Bíscaro,true,False,False
+4513064,858265,doutorado,orientador,,2012,Maria Jose Pacifico,Mariana Pinheiro Gomes da Silva,true,False,False
+4513064,873362,doutorado,orientador,2010,2015,Maria José Pacífico,Welington da Silva Cordeiro,true,False,False
+4513064,1039324,doutorado,orientador,2010,2014,Maria José Pacífico,Raquel Ribeiro Barroso Portela,true,False,False
+4513064,1254021,doutorado,orientador,,2009,Maria Jose Pacifico,Regis Castijos Alves Soares Junior,true,False,False
+4513064,2600321,doutorado,orientador,,2015,Maria Jose Pacifico,Rafael Nobrega Lucena,true,False,False
+4513064,3495372,doutorado,orientador,,2006,Maria Jose Pacifico,Enoch Humberto Apaza Calla,true,False,False
+4513064,3595763,doutorado,orientador,2000,2004,Maria José Pacifico,Ivan Wilber Aguilar Maron,true,False,False
+4527018,3251707,doutorado,orientador,2009,2013,Andrés Koropecki,Mauro Benayon Menezes,true,False,False
+4540666,144065,doutorado,orientador,2011,2012,Alexandre Tavares Baraviera,Fagner Bernardini Rodrigues,true,False,False
+4540666,2184482,doutorado,orientador,2012,2016,Alexandre Tavares Baraviera,Everton Artuso,true,False,False
+4540666,2737353,doutorado,orientador,2011,2016,Alexandre Tavares Baraviera,Lucas Spillere Barchinski,true,False,False
+4540666,3746778,doutorado,orientador,2013,2016,Alexandre Tavares Baraviera,Bruno Brogni Uggioni,true,False,False
+4543797,817998,doutorado,orientador,2001,2005,Carlos Arnoldo Morales Rojas,Alexandre de Souza Soares,true,False,False
+4543797,1448561,doutorado,orientador,2006,2011,Carlos Arnoldo Morales Rojas,João Eduardo Reis,true,False,False
+4543797,2065293,doutorado,orientador,2011,2016,Carlos Arnoldo Morales Rojas,Bulmer Mejía García,true,False,False
+4543797,4161989,doutorado,orientador,2002,2005,Carlos Arnoldo Morales Rojas,Serafin Bautista Diaz,true,False,False
+4543797,4555021,doutorado,orientador,2011,2015,Carlos Arnoldo Morales Rojas,Andres Mauricio Lopez Barragan,true,False,False
+4559923,3863558,doutorado,orientador,1985,1989,Ricardo Mane,Marcos Craizer,true,True,False
+4559923,4112619,doutorado,orientador,1985,1990,Ricardo Mane,Gonzalo Alberto Contreras Barandiaran,true,True,False
+97360,10037650,doutorado,orientador,,1996,Maria Izabel Tavares Camacho,Ila Fernandes,true,False,False
+97360,10037651,doutorado,orientador,,2003,Maria Izabel Tavares Camacho,Clemen Alonso,true,False,False
+570527,10013663,doutorado,orientador,,2011,José Manuel Molina López,A Arroyo,true,False,False
+748435,10067658,doutorado,orientador,,2004,Edson Vargas,Yong Su Han,true,False,False
+1054911,10013663,doutorado,orientador,,2004,Jacob Palis Junior,A Arroyo,true,False,False
+1054911,10057409,doutorado,orientador,,1990,Jacob Palis Junior,Roberto Markarian,true,False,False
+1054911,10057410,doutorado,orientador,,1990,Jacob Palis Junior,Jorge Manuel Martins da Rocha,true,False,False
+1054911,10057411,doutorado,orientador,,1991,Jacob Palis Junior,Leonardo Enrique Mora,true,False,False
+1054911,10057412,doutorado,orientador,,1992,Jacob Palis Junior,Neptalí Jesús Romero Bermúdez,true,False,False
+1054911,10057413,doutorado,orientador,,1998,Jacob Palis Junior,R J Metzger,true,False,False
+1054911,10057414,doutorado,orientador,,2001,Jacob Palis Junior,F Rodriguez,true,False,False
+1054911,10057415,doutorado,orientador,,1978,Jacob Palis Junior,Iaci Pereira Malta,true,False,False
+1054911,10057416,doutorado,orientador,,1985,Jacob Palis Junior,Rafael Eusebio Labarca,true,False,False
+1054911,10057417,doutorado,orientador,,1990,Jacob Palis Junior,Jaime Vera Valenzuela,true,False,False
+1054911,10057418,doutorado,orientador,,1988,Jacob Palis Junior,Sergio Eugenio Plaza,true,False,False
+1054911,10057419,doutorado,orientador,,1990,Jacob Palis Junior,Lorenzo Justiniano Diaz,true,False,False
+1054911,10057420,doutorado,orientador,,1992,Jacob Palis Junior,José Carlos Martinrivas,true,False,False
+1054911,10057421,doutorado,orientador,,1993,Jacob Palis Junior,Pedro Miguel Nunes da Rosa Dias Duarte,true,False,False
+1054911,10057422,doutorado,orientador,,1998,Jacob Palis Junior,M J Sambarino,true,False,False
+1054911,10057423,doutorado,orientador,,1998,Jacob Palis Junior,F J Sanches,true,False,False
+1054911,10057424,doutorado,orientador,,2000,Jacob Palis Junior,V Pinheiro,true,False,False
+1054911,10057425,doutorado,orientador,,1999,Jacob Palis Junior,S Luzzatto,true,False,False
+1054911,10057426,doutorado,orientador,,2004,Jacob Palis Junior,F Rodriguezhertz,true,False,False
+1054911,10057427,doutorado,orientador,,2004,Jacob Palis Junior,A Tahzib,true,False,False
+1054911,10057428,doutorado,orientador,,2003,Jacob Palis Junior,C H Vasquez,true,False,False
+1054911,10057429,doutorado,orientador,,2005,Jacob Palis Junior,L Blasdimir R Leal,true,False,False
+1054911,10057430,doutorado,orientador,,1993,Jacob Palis Junior,Raul Mario Ures,true,False,False
+1171829,10030185,doutorado,orientador,,2001,Lorenzo Justiniano Diaz Casado,Carlos Carballo,true,False,False
+1171829,10030187,doutorado,orientador,,2016,Lorenzo Justiniano Diaz Casado,Sebastian Pérez,true,False,False
+1171829,10030188,doutorado,orientador,,2012,Lorenzo Justiniano Diaz Casado,Felipe Nobili,true,False,False
+1556512,10000796,doutorado,orientador,,2010,José Ferreira Alves,Helder Soares Vilarinho,true,False,False
+1556512,10000797,doutorado,orientador,,2012,José Ferreira Alves,Mohammad Soufi,true,False,False
+1556512,10000799,doutorado,orientador,,2013,José Ferreira Alves,Xin Li,true,False,False
+2204140,10037211,doutorado,orientador,,2001,Welington Celso de Melo,Daniel Smania,true,False,False
+2204140,10037212,doutorado,orientador,,2001,Welington Celso de Melo,Artur Ávila,true,False,False
+2628778,10039107,doutorado,orientador,,2014,Sinesio Pesco,Lis Ingrid Custódio de Melo,true,False,False
+2884069,10021335,doutorado,orientador,,1995,Marcelo Miranda Viana da Silva,Stefano Luzzatto,true,False,False
+2884069,10029835,doutorado,orientador,,2009,Marcelo Miranda Viana da Silva,Maria João Resende,true,False,False
+3443841,10017175,doutorado,orientador,,2000,Geovan Tavares dos Santos,Dirce Uesu,true,False,False
+4112619,10070950,doutorado,orientador,,2004,Gonzalo Alberto Contreras Barandiaran,Carlos Osvaldo Osuna Castro,true,False,False
+4427559,10076084,doutorado,orientador,,2005,Paulo Roberto Grossi Sad,Gabriel Casalmiglia,true,False,False
+4427559,10076085,doutorado,orientador,,1990,Paulo Roberto Grossi Sad,Francois Haab,true,False,False
+4513064,10016446,doutorado,orientador,,2002,Maria Jose Pacifico,Wilmer Colmenares,true,False,False
+4513064,10016447,doutorado,orientador,,2004,Maria Jose Pacifico,Ivan Aguilar,true,False,False
+4513064,10016448,doutorado,orientador,,2015,Maria Jose Pacifico,Alfonso Artigue,true,False,False
+4513064,10016449,doutorado,orientador,,2015,Maria Jose Pacifico,Alma Almijo Averil,true,False,False
+10013818,4368282,doutorado,orientador,2007,2011,Andres Koropecki Enrique Ramiro Pujals,Pablo Dávalos de La Pena,true,False,False
+10014147,1498669,doutorado,orientador,2002,2005,Jeandaniel Boissonnat,Thomas Maurice Lewiner,true,False,False
+10021335,2253539,doutorado,orientador,2003,2005,Stefano Luzzatto,Karla Diaz Ordaz Avila,true,False,False
+10021335,2887093,doutorado,orientador,2004,2011,Stefano Luzzatto,Oliver James Butterley,true,False,False
+10028214,1289421,doutorado,orientador,1990,1995,Shrikant I Bangdiwala,Sergio Munoz,true,False,False
+10057408,1054911,doutorado,orientador,1966,1967,Stephen Smale,Jacob Palis Junior,true,True,False
+10066333,2960103,doutorado,orientador,2007,2009,Loïc Merel,Eduardo Casagrande Stabel,true,False,False
+10067335,144065,doutorado,orientador,2009,2010,Peter Gothen,Fagner Bernardini Rodrigues,true,False,False

@@ -1,0 +1,5 @@
+nodedef>name VARCHAR, label VARCHAR, idLattes VARCHAR, grandeArea VARCHAR, area VARCHAR, instituicao VARCHAR, orgao VARCHAR, pais VARCHAR, estado VARCHAR, cidade VARCHAR, cep VARCHAR, cvdata VARCHAR, foto VARCHAR,eh_semente BOOLEAN,eh_ascendente BOOLEAN,eh_descendente BOOLEAN, eh_Wiki BOOLEAN
+1054911,Jacob Palis Junior,2273093016939875,Ciencias Exatas E da Terra,Matemática,Instituto Nacional de Matemática Pura E Aplicada,Brasil,Rj,Rio de Janeiro,22460320,09/08/2016,,None,None,None,True
+10057408,Stephen Smale,,,,,,,,,,,None,None,None,True
+edgedef>node1 VARCHAR, node2 VARCHAR, nivelOrientacao VARCHAR, tipoOrientacao VARCHAR, anoInicio DOUBLE, anoConclusao DOUBLE, node1Nome VARCHAR, node2Nome VARCHAR, directed BOOLEAN, node1IsWiki VARCHAR, node2IsWiki VARCHAR
+10057408,1054911,doutorado,orientador,1966,1967,Stephen Smale,Jacob Palis Junior,true,True,False
